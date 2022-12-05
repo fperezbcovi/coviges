@@ -1,0 +1,629 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AppMe Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-07-01 12:00:00+0000\n"
+"Last-Translator: AthenaStudio <athenastudio87@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options/class.options.php:13
+msgid "Insert Media"
+msgstr ""
+
+#: options/class.options.php:21
+msgid "Home Section"
+msgstr ""
+
+#: options/class.options.php:24
+msgid "Visual Subtitle"
+msgstr ""
+
+#: post-like/post-like.php:31 post-like/post-like.php:245
+msgid "Like"
+msgstr ""
+
+#: post-like/post-like.php:32 post-like/post-like.php:241
+msgid "Unlike"
+msgstr ""
+
+#: post-like/post-like.php:46
+msgid "Not permitted"
+msgstr ""
+
+#: post-like/post-like.php:373
+msgid "0"
+msgstr ""
+
+#: post-like/post-like.php:392
+msgid "You Like:"
+msgstr ""
+
+#: post-like/post-like.php:421
+msgid "You do not like anything yet."
+msgstr ""
+
+#: shortcodes/accordions.php:29
+msgid "Accordion"
+msgstr ""
+
+#: shortcodes/accordions.php:32
+msgid "Accordion section"
+msgstr ""
+
+#: shortcodes/accordions.php:38 shortcodes/accordions.php:94
+#: shortcodes/blog.php:90 shortcodes/buttons.php:24 shortcodes/clients.php:27
+#: shortcodes/clients.php:70 shortcodes/contact-info.php:30
+#: shortcodes/contact-info.php:71 shortcodes/counter.php:32
+#: shortcodes/download.php:49 shortcodes/features.php:30
+#: shortcodes/features.php:76 shortcodes/google-maps.php:41
+#: shortcodes/header-image.php:44 shortcodes/header-title.php:23
+#: shortcodes/intro.php:30 shortcodes/overviews.php:30
+#: shortcodes/overviews.php:76 shortcodes/pricing-plan.php:43
+#: shortcodes/screenshots.php:40 shortcodes/section-title.php:34
+#: shortcodes/service.php:30 shortcodes/skills.php:30 shortcodes/skills.php:71
+#: shortcodes/social-links.php:67 shortcodes/subscription-form.php:21
+#: shortcodes/testimonials.php:40 shortcodes/testimonials.php:98
+#: shortcodes/video.php:27 shortcodes/worker.php:103
+msgid "Naxos"
+msgstr ""
+
+#: shortcodes/accordions.php:42 shortcodes/contact-info.php:34
+#: shortcodes/features.php:34 shortcodes/intro.php:34
+#: shortcodes/overviews.php:34 shortcodes/skills.php:34
+#: shortcodes/testimonials.php:44
+msgid "Margin Top"
+msgstr ""
+
+#: shortcodes/accordions.php:50 shortcodes/contact-info.php:42
+#: shortcodes/features.php:42 shortcodes/intro.php:42
+#: shortcodes/overviews.php:42 shortcodes/skills.php:42
+#: shortcodes/testimonials.php:52
+msgid "Margin Bottom"
+msgstr ""
+
+#: shortcodes/accordions.php:88
+msgid "Accordion Tab"
+msgstr ""
+
+#: shortcodes/accordions.php:98 shortcodes/contact-info.php:75
+#: shortcodes/counter.php:36 shortcodes/features.php:80
+#: shortcodes/header-title.php:27 shortcodes/overviews.php:80
+#: shortcodes/pricing-plan.php:55 shortcodes/section-title.php:38
+#: shortcodes/service.php:34 shortcodes/skills.php:75
+msgid "Title"
+msgstr ""
+
+#: shortcodes/accordions.php:106 shortcodes/features.php:88
+#: shortcodes/overviews.php:88 shortcodes/service.php:42
+msgid "Text"
+msgstr ""
+
+#: shortcodes/accordions.php:114
+msgid "Opened"
+msgstr ""
+
+#: shortcodes/blog.php:26
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/blog.php:86
+msgid "Blog Posts"
+msgstr ""
+
+#: shortcodes/blog.php:89
+msgid "Recent posts"
+msgstr ""
+
+#: shortcodes/blog.php:96
+msgid "Column"
+msgstr ""
+
+#: shortcodes/blog.php:110
+msgid "Limit"
+msgstr ""
+
+#: shortcodes/buttons.php:15
+msgid "Buttons"
+msgstr ""
+
+#: shortcodes/buttons.php:18
+msgid "Buttons holder"
+msgstr ""
+
+#: shortcodes/buttons.php:28 shortcodes/header-title.php:43
+msgid "CSS Class"
+msgstr ""
+
+#: shortcodes/class.shortcodes.php:18
+msgid "Share This Article"
+msgstr ""
+
+#: shortcodes/class.shortcodes.php:21
+msgid "Share"
+msgstr ""
+
+#: shortcodes/class.shortcodes.php:23 shortcodes/social-links.php:21
+#: shortcodes/worker.php:48
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/class.shortcodes.php:24 shortcodes/social-links.php:29
+#: shortcodes/worker.php:56
+msgid "Facebook"
+msgstr ""
+
+#: shortcodes/class.shortcodes.php:25
+msgid "Pinterest"
+msgstr ""
+
+#: shortcodes/class.shortcodes.php:26 shortcodes/social-links.php:37
+#: shortcodes/worker.php:64
+msgid "LinkedIn"
+msgstr ""
+
+#: shortcodes/clients.php:19
+msgid "Clients"
+msgstr ""
+
+#: shortcodes/clients.php:22
+msgid "Client logos"
+msgstr ""
+
+#: shortcodes/clients.php:31
+msgid "Show Navigation Dots"
+msgstr ""
+
+#: shortcodes/clients.php:64 shortcodes/testimonials.php:110
+msgid "Client"
+msgstr ""
+
+#: shortcodes/clients.php:74 shortcodes/download.php:53
+#: shortcodes/header-image.php:48 shortcodes/testimonials.php:102
+#: shortcodes/worker.php:110
+msgid "Image"
+msgstr ""
+
+#: shortcodes/clients.php:82 shortcodes/worker.php:119
+msgid "Name"
+msgstr ""
+
+#: shortcodes/clients.php:90
+msgid "Website URL"
+msgstr ""
+
+#: shortcodes/contact-info.php:21
+msgid "Contact Info"
+msgstr ""
+
+#: shortcodes/contact-info.php:24
+msgid "Contact texts"
+msgstr ""
+
+#: shortcodes/contact-info.php:65
+msgid "Contact Text"
+msgstr ""
+
+#: shortcodes/contact-info.php:83 shortcodes/counter.php:44
+#: shortcodes/download.php:69 shortcodes/features.php:96
+#: shortcodes/overviews.php:96 shortcodes/pricing-plan.php:63
+#: shortcodes/service.php:50 shortcodes/video.php:39
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/contact-info.php:98 shortcodes/testimonials.php:126
+msgid "Content"
+msgstr ""
+
+#: shortcodes/counter.php:28
+msgid "Counter"
+msgstr ""
+
+#: shortcodes/counter.php:31
+msgid "Milestone number"
+msgstr ""
+
+#: shortcodes/counter.php:59
+msgid "Count"
+msgstr ""
+
+#: shortcodes/counter.php:67 shortcodes/service.php:65
+msgid "Animation Delay"
+msgstr ""
+
+#: shortcodes/download.php:45
+msgid "Download Button"
+msgstr ""
+
+#: shortcodes/download.php:48
+msgid "App download button"
+msgstr ""
+
+#: shortcodes/download.php:61 shortcodes/pricing-plan.php:101
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/download.php:84
+msgid "Download URL"
+msgstr ""
+
+#: shortcodes/download.php:91
+msgid "Margin"
+msgstr ""
+
+#: shortcodes/download.php:100
+msgid "Auto Width"
+msgstr ""
+
+#: shortcodes/features.php:21
+msgid "Features"
+msgstr ""
+
+#: shortcodes/features.php:24
+msgid "Awesome features"
+msgstr ""
+
+#: shortcodes/features.php:70
+msgid "Feature"
+msgstr ""
+
+#: shortcodes/features.php:113 shortcodes/section-title.php:69
+msgid "Align"
+msgstr ""
+
+#: shortcodes/features.php:116 shortcodes/section-title.php:73
+msgid "Left"
+msgstr ""
+
+#: shortcodes/features.php:117 shortcodes/header-image.php:61
+#: shortcodes/section-title.php:74
+msgid "Right"
+msgstr ""
+
+#: shortcodes/google-maps.php:37
+msgid "Google Maps"
+msgstr ""
+
+#: shortcodes/google-maps.php:40
+msgid "Map shortcode"
+msgstr ""
+
+#: shortcodes/google-maps.php:45
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/google-maps.php:53
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/google-maps.php:61
+msgid "Zoom Level"
+msgstr ""
+
+#: shortcodes/google-maps.php:69
+msgid "Map Color"
+msgstr ""
+
+#: shortcodes/google-maps.php:77
+msgid "Show Map Marker"
+msgstr ""
+
+#: shortcodes/google-maps.php:86
+msgid "Marker Image"
+msgstr ""
+
+#: shortcodes/google-maps.php:94
+msgid "Marker Popup Title"
+msgstr ""
+
+#: shortcodes/google-maps.php:102
+msgid "Marker Popup Text"
+msgstr ""
+
+#: shortcodes/header-image.php:40
+msgid "Header Image"
+msgstr ""
+
+#: shortcodes/header-image.php:43
+msgid "Intro image"
+msgstr ""
+
+#: shortcodes/header-image.php:58 shortcodes/service.php:75
+msgid "Style"
+msgstr ""
+
+#: shortcodes/header-image.php:62 shortcodes/section-title.php:72
+msgid "Center"
+msgstr ""
+
+#: shortcodes/header-image.php:63 shortcodes/section-title.php:81
+msgid "Full Width"
+msgstr ""
+
+#: shortcodes/header-title.php:19
+msgid "Header Title"
+msgstr ""
+
+#: shortcodes/header-title.php:22
+msgid "Intro heading text"
+msgstr ""
+
+#: shortcodes/header-title.php:35 shortcodes/section-title.php:46
+msgid "Slogan"
+msgstr ""
+
+#: shortcodes/intro.php:21
+msgid "Intro"
+msgstr ""
+
+#: shortcodes/intro.php:24
+msgid "Intro banner"
+msgstr ""
+
+#: shortcodes/overviews.php:21
+msgid "Overviews"
+msgstr ""
+
+#: shortcodes/overviews.php:24
+msgid "Overview items"
+msgstr ""
+
+#: shortcodes/overviews.php:70
+msgid "Overview"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:39
+msgid "Pricing Plan"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:42
+msgid "Pricing table plan"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:47
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:78
+msgid "Price"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:85
+msgid "List"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:93
+msgid "Ribbon"
+msgstr ""
+
+#: shortcodes/pricing-plan.php:109
+msgid "Button URL"
+msgstr ""
+
+#: shortcodes/screenshots.php:36
+msgid "Screenshots"
+msgstr ""
+
+#: shortcodes/screenshots.php:39
+msgid "App screenshots"
+msgstr ""
+
+#: shortcodes/screenshots.php:44
+msgid "Images"
+msgstr ""
+
+#: shortcodes/screenshots.php:52
+msgid "Popup Window"
+msgstr ""
+
+#: shortcodes/section-title.php:30
+msgid "Section Title"
+msgstr ""
+
+#: shortcodes/section-title.php:33
+msgid "Styled heading"
+msgstr ""
+
+#: shortcodes/section-title.php:56
+msgid "Color"
+msgstr ""
+
+#: shortcodes/section-title.php:59
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/section-title.php:60
+msgid "White"
+msgstr ""
+
+#: shortcodes/service.php:26
+msgid "Service"
+msgstr ""
+
+#: shortcodes/service.php:29
+msgid "Service grid"
+msgstr ""
+
+#: shortcodes/service.php:78
+msgid "Style 1"
+msgstr ""
+
+#: shortcodes/service.php:79
+msgid "Style 2"
+msgstr ""
+
+#: shortcodes/skills.php:21
+msgid "Skills"
+msgstr ""
+
+#: shortcodes/skills.php:24
+msgid "Progress bars"
+msgstr ""
+
+#: shortcodes/skills.php:64
+msgid "Progress Bar"
+msgstr ""
+
+#: shortcodes/skills.php:67
+msgid "Animated progress bar"
+msgstr ""
+
+#: shortcodes/skills.php:83
+msgid "Value"
+msgstr ""
+
+#: shortcodes/social-links.php:45 shortcodes/worker.php:72
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/social-links.php:53 shortcodes/worker.php:80
+msgid "Dribbble"
+msgstr ""
+
+#: shortcodes/social-links.php:63
+msgid "Social Links"
+msgstr ""
+
+#: shortcodes/social-links.php:66
+msgid "Team member social info"
+msgstr ""
+
+#: shortcodes/social-links.php:71 shortcodes/worker.php:147
+msgid "Twitter URL"
+msgstr ""
+
+#: shortcodes/social-links.php:78 shortcodes/worker.php:155
+msgid "Facebook URL"
+msgstr ""
+
+#: shortcodes/social-links.php:85 shortcodes/worker.php:163
+msgid "LinkedIn URL"
+msgstr ""
+
+#: shortcodes/social-links.php:92 shortcodes/worker.php:171
+msgid "Instagram URL"
+msgstr ""
+
+#: shortcodes/social-links.php:99 shortcodes/worker.php:179
+msgid "Dribbble URL"
+msgstr ""
+
+#: shortcodes/subscription-form.php:10
+msgid "Subscribe"
+msgstr ""
+
+#: shortcodes/subscription-form.php:17
+msgid "Subscription Form"
+msgstr ""
+
+#: shortcodes/subscription-form.php:20
+msgid "Newsletter"
+msgstr ""
+
+#: shortcodes/subscription-form.php:25
+msgid "Form Result Text"
+msgstr ""
+
+#: shortcodes/testimonials.php:31
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/testimonials.php:34
+msgid "Client reviews"
+msgstr ""
+
+#: shortcodes/testimonials.php:92
+msgid "Review"
+msgstr ""
+
+#: shortcodes/testimonials.php:118
+msgid "Company"
+msgstr ""
+
+#: shortcodes/video.php:23
+msgid "Video Control"
+msgstr ""
+
+#: shortcodes/video.php:26
+msgid "Parallax video button"
+msgstr ""
+
+#: shortcodes/video.php:31
+msgid "Watch Text"
+msgstr ""
+
+#: shortcodes/video.php:54
+msgid "Video URL"
+msgstr ""
+
+#: shortcodes/worker.php:99
+msgid "Worker"
+msgstr ""
+
+#: shortcodes/worker.php:102
+msgid "Team member"
+msgstr ""
+
+#: shortcodes/worker.php:128
+msgid "Activity"
+msgstr ""
+
+#: shortcodes/worker.php:137
+msgid "Details Page URL"
+msgstr ""
+
+#: widgets/class.widgets.php:52
+msgid "Add your social accounts"
+msgstr ""
+
+#: widgets/class.widgets.php:55
+msgid "Naxos Social Links Widget"
+msgstr ""
+
+#: widgets/class.widgets.php:231 widgets/class.widgets.php:382
+msgid "Title:"
+msgstr ""
+
+#: widgets/class.widgets.php:242
+msgid "Content:"
+msgstr ""
+
+#: widgets/class.widgets.php:252
+msgid "Display logo?"
+msgstr ""
+
+#: widgets/class.widgets.php:258
+msgid "Link:"
+msgstr ""
+
+#: widgets/class.widgets.php:278
+msgid "Your site's most recent posts."
+msgstr ""
+
+#: widgets/class.widgets.php:281
+msgid "Naxos Recent Posts Widget"
+msgstr ""
+
+#: widgets/class.widgets.php:290
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/class.widgets.php:385
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/class.widgets.php:389
+msgid "Display post date?"
+msgstr ""

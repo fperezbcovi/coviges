@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<key name="naxos_config">
+			<key name="home-page-title"/>
+			<key name="copyright-text"/>
+			<key name="blog-page-title"/>
+			<key name="blog-page-subtitle"/>
+		</key>
+	</admin-texts>
+</wpml-config>
